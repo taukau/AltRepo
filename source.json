@@ -5,7 +5,7 @@
   "apps": [
     {
       "name": "Yattee",
-      "bundleIdentifier": "com.osy.jitterbug",
+      "bundleIdentifier": "com.osy86.jitterbug",
       "developerName": "osy",
       "subtitle": "Launch JIT enabled iOS app with a second iOS device",
       "version": "1.2.0",
