@@ -4,7 +4,7 @@
   "sourceURL": "",
   "apps": [
     {
-      "name": "Yattee",
+      "name": "Jitterbug",
       "bundleIdentifier": "com.osy86.jitterbug",
       "developerName": "osy",
       "subtitle": "Launch JIT enabled iOS app with a second iOS device",
